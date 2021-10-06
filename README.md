@@ -1,2 +1,3 @@
-# AskOmDch-Automation
-This is a test project to practice automation using selenium with java
+This is test project to practice automation test using
+Selenium with Java, using Intellij Idea
+Abrham Kassa
